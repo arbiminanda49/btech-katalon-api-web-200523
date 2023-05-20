@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "6848887716295E48AA342700653666D3",
+  "keywordClasses": [
+    {
+      "name": "helper.jsonSchemaAssertion",
+      "keywordMethods": [
+        {
+          "name": "registerJsonSchemaAssertion",
+          "parameters": [
+            {
+              "name": "response",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_success</name>
+   <tag></tag>
+   <elementGuidId>abd06864-5e31-4316-a1c6-feacc52dc002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#toast-1-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id, 'toast')][contains(text(),'success')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@id, 'toast')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>toast</value>
+      <webElementGuid>0ab539a7-9600-479c-80d6-6b1fd13b68a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='toast-1-title']</value>
+      <webElementGuid>1256f4f0-8e34-4e11-8b23-796dd6184c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/div/div</value>
+      <webElementGuid>ea6708d2-c84b-4a0f-be67-1f14afa06370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::div[8]</value>
+      <webElementGuid>3c6ec0f1-1a12-4b2e-a279-687d0209b357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='item ditambahkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>60eb13b5-f49c-4ddd-a0d0-b454fb3c1fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='success'])[2]/preceding::div[2]</value>
+      <webElementGuid>fde28246-b08b-42eb-8862-95081eb28db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='success']/parent::*</value>
+      <webElementGuid>b4a1ff3d-0249-44ae-8e70-f5f68e779920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/div</value>
+      <webElementGuid>0a94c6db-9f25-4e86-a051-6cdf355f37b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'toast-1-title' and (text() = 'success' or . = 'success')]</value>
+      <webElementGuid>db938035-6d18-48f1-b750-8ec550a26153</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

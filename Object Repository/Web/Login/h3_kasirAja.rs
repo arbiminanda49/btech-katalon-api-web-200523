@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_kasirAja</name>
+   <tag></tag>
+   <elementGuidId>48f35de4-5a74-4357-90e1-097c32fb8bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.chakra-heading.css-1wswht5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[contains(text(),'kasirAja')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/h3</value>
+      <webElementGuid>cf55fc7a-efff-488b-bb0d-b3a378f4c706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dashboard'])[1]/preceding::h3[1]</value>
+      <webElementGuid>45ec7729-cddc-4bb7-9dc8-774cbae6b505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kasir'])[1]/preceding::h3[1]</value>
+      <webElementGuid>78c2cc04-c6b6-454a-89d4-49813451ba09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>bd7bce80-e993-4d2d-94b9-0098cc00d195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'kasirAja' or . = 'kasirAja')]</value>
+      <webElementGuid>93e77620-7651-49ff-a9bb-7a1df82aeceb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
